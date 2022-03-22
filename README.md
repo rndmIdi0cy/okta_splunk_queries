@@ -1,3 +1,9 @@
+Old splunk queries for Okta - they should still be applicable but its been awhile. 
+
+Putting here for posterity. I'm sure these could be improved upon.
+
+-----
+
 ## Login actions
 ```
 index=sso sourcetype="okta:im"
